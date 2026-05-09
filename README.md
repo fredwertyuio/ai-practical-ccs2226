@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CCS 2226 Foundations of AI - Practical Project (2026)
 
 ## Student Submission
@@ -64,3 +65,7 @@ python task1_mnist.py
 python task2_australia.py
 python task2_nairobi.py
 python task4_search.py
+=======
+# ai-practical-ccs2226
+AI Foundations Practical
+>>>>>>> 65b54ab7078a3d817797ac4fda4571f9d3532fee
